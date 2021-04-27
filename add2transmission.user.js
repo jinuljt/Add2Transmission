@@ -2,7 +2,7 @@
 // @name         Add to Transmission
 // @namespace    https://github.com/jinuljt/Add2Transmission
 // @version      0.1
-// @description  search a tag and href startswith "magnet://", add "Transmission" button to it
+// @description  search a tag and href startswith "magnet:?", add "Transmission" button to it
 // @author       Juntao Liu
 // @match        https://btdig.com/*
 // @match        https://1337x.to/*
