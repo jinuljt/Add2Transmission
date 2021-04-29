@@ -34,3 +34,11 @@ add2transmission 是一个 [Tampermonkey](https://www.tampermonkey.net/) 脚本�
 // @match        https://www.torrentdownloads.me/*
 // @match        https://thepiratebay.org/*
 ```
+
+
+## 已知的问题
+
+1 在yyets的资源分享站（例如：https://yyets.dmesg.app/resource.html?id=11010）无法在正常使用。
+猜测应该是页面加载完之后，使用js重新渲染增加的magnet链接。
+解决方案是将userscript run-at 修改为 context-menu，页面加载完出现magnet链接(按钮)后执行脚本。即可成功。
+
