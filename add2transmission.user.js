@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Add to Transmission
-// @namespace    https://github.com/jinuljt/Add2Transmission
+// @namespace    https://github.com/jinuljt/monkeys
 // @version      0.1
 // @description  search a tag and href startswith "magnet:?", add "Transmission" button to it
 // @author       Juntao Liu

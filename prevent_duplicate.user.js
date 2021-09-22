@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Prevent Duplicate(ebook)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/jinuljt/monkeys
 // @version      0.1
 // @description  豆瓣图书页面中自动查找calibre中是否已存在相应图书。
 // @author       Juntao Liu
