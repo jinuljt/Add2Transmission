@@ -45,5 +45,6 @@
         a.target = "_blank";
         a.innerHTML = `<img src='${calibre_server}/favicon.png' height='25' width='25'>`;
 
-        div.insertChildAtIndex(a, 1);    }
+        div.insertChildAtIndex(a, 1);
+    }
 })();
