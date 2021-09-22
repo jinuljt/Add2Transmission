@@ -5,6 +5,15 @@
 
 ![prevent duplicate example](/img/prevent_duplicate.png?raw=true)
 
+## 安装
+
+**前提** 需要有一个运行中的[calibre server](https://manual.calibre-ebook.com/server.html)
+
+打开[prevent_duplicate.user.js](prevent_duplicate.user.js)，点击 `Raw`按钮进行安装。
+
+安装后修改`calibre_server`地址为自己的calibre服务器地址。
+
+
 # add2transmission
 
 ## 介绍
