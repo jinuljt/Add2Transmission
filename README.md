@@ -1,3 +1,10 @@
+# prevent duplicate
+
+## 介绍
+在豆瓣图书页面使用图书标题在calibre中查找书目，如有匹配则在标题处增加calibre跳转连接。
+
+![prevent duplicate example](/img/prevent_duplicate.png?raw=true)
+
 # add2transmission
 
 ## 介绍
